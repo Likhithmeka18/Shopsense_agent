@@ -1,0 +1,29 @@
+product_id,name,category,price_inr,return_window_days
+PROD-0001,Wireless Earbuds,electronics,13347,15
+PROD-0002,Bluetooth Speaker,electronics,5299,15
+PROD-0003,Power Bank 20000mAh,electronics,4641,15
+PROD-0004,USB-C Charger,electronics,2120,15
+PROD-0005,Smartwatch,electronics,12169,15
+PROD-0006,Laptop Sleeve,electronics,7478,15
+PROD-0007,Mechanical Keyboard,electronics,4188,15
+PROD-0008,Cotton T-Shirt,apparel,480,45
+PROD-0009,Denim Jacket,apparel,1623,45
+PROD-0010,Running Shoes,apparel,2604,45
+PROD-0011,Wool Sweater,apparel,2185,45
+PROD-0012,Formal Shirt,apparel,3139,45
+PROD-0013,Yoga Pants,apparel,2314,45
+PROD-0014,Rain Jacket,apparel,2013,45
+PROD-0015,Basmati Rice 5kg,groceries,1095,0
+PROD-0016,Organic Honey 500g,groceries,820,0
+PROD-0017,Green Tea Pack,groceries,926,0
+PROD-0018,Almonds 1kg,groceries,666,0
+PROD-0019,Cold Pressed Oil 1L,groceries,256,0
+PROD-0020,Non-stick Pan Set,home,3389,30
+PROD-0021,LED Desk Lamp,home,2844,30
+PROD-0022,Memory Foam Pillow,home,3042,30
+PROD-0023,Ceramic Mug Set,home,3165,30
+PROD-0024,Storage Organizer Box,home,2781,30
+PROD-0025,Vitamin C Serum,beauty,1877,10
+PROD-0026,Sunscreen SPF50,beauty,252,10
+PROD-0027,Hair Dryer,beauty,1664,10
+PROD-0028,Lip Balm Set,beauty,1627,10

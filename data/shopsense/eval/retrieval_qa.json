@@ -1,0 +1,106 @@
+{
+  "name": "shopsense_retrieval_qa",
+  "description": "Retrieval-only questions: each is tied to the chunk(s) that answer it by `answer_contains` (a policy code or distinctive phrase), so gold labels cannot drift from however the corpus is chunked. Resolved identically against the markdown and PDF corpora.",
+  "questions": [
+    {
+      "q": "What escalation code is used when a shipment is declared lost?",
+      "answer_contains": "ESC-LOST"
+    },
+    {
+      "q": "What is the SLA code for warehouse quality-check turnaround?",
+      "answer_contains": "SLA-48"
+    },
+    {
+      "q": "Which escalation code routes a refund of INR 12,000 for executive review?",
+      "answer_contains": "ESC-L2"
+    },
+    {
+      "q": "What escalation code applies when a customer is flagged for return abuse?",
+      "answer_contains": "ESC-ABUSE"
+    },
+    {
+      "q": "Which policy section covers electronics returned with a broken anti-tamper seal?",
+      "answer_contains": "RP-3.2"
+    },
+    {
+      "q": "Which refund policy section covers a duplicate charge on the same order?",
+      "answer_contains": "RF-4.2"
+    },
+    {
+      "q": "How many days until a ShopSense shipment with no tracking movement is declared lost?",
+      "answer_contains": "10 calendar days"
+    },
+    {
+      "q": "What is the extended return window during the festive season?",
+      "answer_contains": "45-day"
+    },
+    {
+      "q": "What first-response SLA applies to a product safety hazard report?",
+      "answer_contains": "1 hour"
+    },
+    {
+      "q": "What carriers does ShopSense ship with?",
+      "answer_contains": "BlueDart"
+    },
+    {
+      "q": "How many days do I have to return a smartwatch after delivery?",
+      "answer_contains": "CA-EL-1.1"
+    },
+    {
+      "q": "How long do I have to return running shoes that do not fit?",
+      "answer_contains": "CA-AP-1.1"
+    },
+    {
+      "q": "Can I return basmati rice because I did not like the taste?",
+      "answer_contains": "CA-GR-1.1"
+    },
+    {
+      "q": "Can I return a lip balm after opening it?",
+      "answer_contains": "CA-BT-2.1"
+    },
+    {
+      "q": "What is the festive season return window for electronics?",
+      "answer_contains": "CA-EL-1.2"
+    },
+    {
+      "q": "Is the first size exchange on an apparel order free?",
+      "answer_contains": "CA-AP-3.1"
+    },
+    {
+      "q": "What is the pickup fee for a bulky home item returned for change of mind?",
+      "answer_contains": "CA-HM-2.2"
+    },
+    {
+      "q": "What should I do with a swollen power bank?",
+      "answer_contains": "CA-EL-3.1"
+    },
+    {
+      "q": "How long is the warranty on electronics?",
+      "answer_contains": "WP-1.1"
+    },
+    {
+      "q": "Who is allowed to approve a refund of INR 12,000?",
+      "answer_contains": "RA-1 Who Can Approve What"
+    },
+    {
+      "q": "How large a goodwill credit can a support agent give without manager approval?",
+      "answer_contains": "RA-4.1"
+    },
+    {
+      "q": "How many returns make an account flagged for return abuse?",
+      "answer_contains": "FP-1.1"
+    },
+    {
+      "q": "Am I allowed to tell a customer their account is flagged?",
+      "answer_contains": "FP-2.1"
+    },
+    {
+      "q": "Can an order that is still processing be cancelled for free?",
+      "answer_contains": "CN-1.1"
+    },
+    {
+      "q": "Which escalation code applies to a third contact about the same issue?",
+      "answer_contains": "ESC-REPEAT"
+    }
+  ]
+}

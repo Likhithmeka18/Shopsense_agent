@@ -1,0 +1,1211 @@
+order_id,product_id,product_name,category,unit_price_inr,quantity
+ORD-4001,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4001,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4001,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4002,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4002,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4003,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4003,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4004,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4004,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4005,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4005,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4005,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4006,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4006,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4007,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4008,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4009,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4009,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4010,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4010,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4011,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4011,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4012,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4012,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4012,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4013,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4013,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4014,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4014,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4014,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4015,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4015,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4016,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4016,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4017,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4017,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4017,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4018,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4018,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4019,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4020,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4020,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4021,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4021,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4021,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4022,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4023,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4024,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4025,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4026,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4027,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4027,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4027,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4028,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4028,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4028,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4029,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4030,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4031,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4031,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4031,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4032,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4032,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4032,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4033,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4033,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4033,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4034,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4035,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4036,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4036,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4036,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4037,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4037,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4038,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4038,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4039,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4039,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4039,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4040,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4040,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4041,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4041,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4041,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4042,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4042,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4043,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4044,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4044,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4045,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4046,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4046,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4046,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4047,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4048,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4049,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4049,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4050,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4050,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4050,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4051,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4052,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4052,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4052,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4053,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4053,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4054,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4055,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4055,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4055,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4056,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4056,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4056,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4057,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4057,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4058,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4059,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4059,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4060,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4060,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4060,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4061,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4062,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4062,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4063,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4063,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4064,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4064,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4064,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4065,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4066,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4067,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4067,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4067,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4068,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4068,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4069,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4070,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4070,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4070,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4071,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4071,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4071,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4072,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4072,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4072,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4073,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4073,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4073,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4074,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4074,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4075,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4075,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4075,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4076,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4076,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4076,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4077,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4077,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4078,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4079,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4079,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4079,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4080,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4080,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4080,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4081,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4082,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4082,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4083,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4083,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4083,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4084,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4085,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4085,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4085,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4086,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4086,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4087,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4087,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4087,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4088,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4088,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4088,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4089,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4089,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4090,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4090,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4091,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4091,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4092,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4092,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4092,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4093,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4093,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4094,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4094,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4095,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4095,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4096,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4097,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4097,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4098,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4098,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4098,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4099,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4099,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4099,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4100,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4101,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4101,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4102,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4103,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4104,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4105,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4105,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4105,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4106,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4106,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4107,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4108,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4108,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4108,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4109,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4109,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4110,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4111,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4112,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4112,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4113,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4113,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4113,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4114,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4115,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4115,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4115,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4116,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4116,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4116,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4117,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4117,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4118,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4118,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4119,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4119,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4120,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4120,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4120,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4121,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4122,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4122,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4123,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4123,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4124,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4125,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4126,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4126,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4127,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4128,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4128,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4128,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4129,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4129,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4130,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4130,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4131,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4131,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4131,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4132,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4133,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4133,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4133,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4134,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4134,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4134,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4135,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4136,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4137,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4137,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4137,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4138,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4138,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4139,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4140,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4140,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4141,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4142,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4142,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4142,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4143,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4144,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4144,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4144,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4145,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4145,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4145,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4146,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4147,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4147,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4148,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4148,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4149,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4150,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4150,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4151,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4152,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4153,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4153,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4154,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4154,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4154,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4155,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4155,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4155,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4156,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4156,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4157,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4158,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4158,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4158,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4159,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4159,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4160,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4160,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4161,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4161,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4161,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4162,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4162,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4163,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4163,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4163,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4164,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4164,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4165,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4165,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4166,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4166,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4166,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4167,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4167,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4167,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4168,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4168,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4169,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4169,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4169,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4170,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4171,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4172,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4172,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4172,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4173,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4173,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4173,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4174,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4174,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4175,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4175,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4175,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4176,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4176,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4176,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4177,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4177,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4178,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4178,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4178,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4179,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4179,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4180,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4180,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4181,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4181,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4182,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4182,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4183,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4184,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4184,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4184,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4185,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4186,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4186,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4186,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4187,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4187,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4188,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4188,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4189,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4189,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4189,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4190,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4190,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4191,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4191,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4191,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4192,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4192,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4192,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4193,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4194,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4194,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4195,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4196,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4197,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4197,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4197,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4198,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4198,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4199,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4200,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4201,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4201,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4201,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4202,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4202,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4202,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4203,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4203,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4204,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4204,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4204,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4205,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4205,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4206,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4206,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4207,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4208,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4208,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4208,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4209,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4209,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4209,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4210,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4210,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4211,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4211,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4212,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4212,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4212,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4213,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4213,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4214,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4215,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4215,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4216,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4216,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4217,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4217,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4217,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4218,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4218,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4219,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4220,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4220,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4221,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4222,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4222,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4223,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4224,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4224,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4224,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4225,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4226,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4226,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4227,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4228,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4229,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4229,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4229,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4230,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4230,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4231,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4231,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4232,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4232,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4232,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4233,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4233,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4234,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4235,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4235,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4236,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4236,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4236,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4237,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4237,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4237,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4238,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4238,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4239,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4240,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4240,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4241,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4241,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4242,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4243,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4243,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4244,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4244,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4244,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4245,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4245,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4245,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4246,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4246,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4247,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4248,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4248,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4249,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4249,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4250,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4251,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4251,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4252,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4253,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4253,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4254,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4255,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4255,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4256,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4256,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4257,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4257,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4258,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4258,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4259,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4259,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4260,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4261,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4262,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4262,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4262,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4263,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4264,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4264,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4264,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4265,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4266,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4266,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4267,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4267,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4267,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4268,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4268,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4268,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4269,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4269,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4269,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4270,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4270,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4271,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4272,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4272,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4272,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4273,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4274,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4275,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4276,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4277,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4277,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4277,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4278,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4278,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4279,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4279,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4279,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4280,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4280,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4281,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4281,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4282,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4282,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4283,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4283,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4284,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4284,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4284,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4285,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4286,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4287,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4287,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4287,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4288,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4288,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4289,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4290,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4291,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4292,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4292,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4293,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4293,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4294,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4294,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4294,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4295,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4295,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4296,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4296,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4296,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4297,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4297,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4298,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4299,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4300,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4300,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4301,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4301,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4302,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4302,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4303,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4304,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4304,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4305,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4305,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4306,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4306,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4306,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4307,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4307,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4308,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4308,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4308,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4309,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4310,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4311,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4311,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4312,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4313,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4314,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4315,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4316,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4317,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4317,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4318,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4319,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4319,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4319,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4320,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4320,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4321,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4322,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4322,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4323,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4323,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4323,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4324,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4324,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4325,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4325,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4325,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4326,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4327,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4328,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4328,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4329,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4329,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4330,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4330,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4331,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4331,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4331,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4332,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4332,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4333,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4334,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4334,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4335,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4335,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4335,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4336,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4336,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4336,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4337,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4337,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4337,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4338,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4338,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4338,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4339,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4339,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4339,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4340,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4340,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4340,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4341,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4341,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4341,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4342,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4343,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4344,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4344,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4345,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4345,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4346,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4347,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4348,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4348,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4348,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4349,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4350,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4350,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4350,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4351,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4352,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4352,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4353,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4353,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4353,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4354,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4354,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4354,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4355,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4355,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4356,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4356,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4357,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4357,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4357,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4358,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4358,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4358,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4359,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4359,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4360,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4360,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4361,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4361,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4361,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4362,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4363,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4363,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4363,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4364,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4364,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4365,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4366,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4366,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4367,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4368,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4369,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4370,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4370,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4370,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4371,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4372,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4373,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4374,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4375,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4375,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4375,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4376,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4376,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4376,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4377,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4377,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4378,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4378,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4378,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4379,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4379,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4380,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4380,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4380,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4381,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4381,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4381,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4382,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4383,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4383,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4383,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4384,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4384,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4385,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4385,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4386,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4387,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4388,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4389,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4389,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4390,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4391,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4391,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4391,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4392,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4392,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4393,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4393,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4393,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4394,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4394,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4394,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4395,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4395,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4395,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4396,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4396,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4396,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4397,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4397,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4398,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4398,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4399,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4399,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4400,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4400,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4400,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4401,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4401,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4402,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4402,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4403,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4403,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4404,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4404,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4405,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4406,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4406,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4407,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4408,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4409,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4409,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4410,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4410,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4411,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4411,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4411,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4412,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4412,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4412,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4413,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4413,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4413,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4414,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4414,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4414,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4415,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4415,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4416,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4416,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4417,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4417,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4418,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4418,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4418,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4419,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4419,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4420,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4421,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4421,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4421,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4422,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4422,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4422,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4423,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4423,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4423,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4424,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4424,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4425,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4426,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4427,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4427,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4427,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4428,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4428,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4429,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4430,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4430,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4431,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4432,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4432,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4432,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4433,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4434,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4435,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4436,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4437,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4437,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4438,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4438,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4439,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4440,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4440,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4441,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4441,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4441,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4442,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4442,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4443,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4443,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4444,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4444,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4444,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4445,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4446,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4447,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4448,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4448,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4448,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4449,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4450,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4450,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4450,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4451,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4451,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4452,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4452,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4453,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4453,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4454,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4455,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4456,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4456,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4457,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4458,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4459,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4459,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4459,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4460,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4461,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4461,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4462,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4463,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4464,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4464,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4464,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4465,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4466,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4466,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4466,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4467,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4467,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4467,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4468,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4469,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4469,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4469,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4470,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4470,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4470,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4471,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4471,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4471,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4472,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4472,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4473,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4473,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4474,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4474,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4475,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4475,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4475,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4476,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4476,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4476,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4477,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4477,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4478,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4479,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4479,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4479,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4480,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4480,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4481,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4481,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4482,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4482,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4482,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4483,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4483,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4484,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4484,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4484,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4485,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4486,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4486,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4486,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4487,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4487,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4487,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4488,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4488,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4488,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4489,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4490,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4490,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4490,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4491,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4491,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4492,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4493,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4493,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4494,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4495,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4496,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4496,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4496,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4497,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4497,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4497,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4498,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4498,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4498,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4499,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4500,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4500,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4501,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4502,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4502,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4502,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4503,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4504,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4504,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4505,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4505,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4505,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4506,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4506,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4506,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4507,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4508,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4509,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4509,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4509,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4510,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4511,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4511,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4512,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4512,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4512,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4513,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4513,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4514,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4514,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4514,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4515,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4515,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4516,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4516,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4516,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4517,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4518,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4518,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4518,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4519,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4519,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4520,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4520,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4521,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4521,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4521,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4522,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4522,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4523,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4523,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4523,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4524,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4524,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4524,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4525,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4525,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4525,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4526,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4526,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4527,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4528,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4528,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4529,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4529,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4530,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4531,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4532,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4532,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4533,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4533,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4534,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4534,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4535,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4535,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4536,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4536,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4536,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4537,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4537,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4538,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4539,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4539,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4540,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4540,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4541,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4541,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4542,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4543,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4543,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4544,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4544,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4544,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4545,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4545,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4545,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4546,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4546,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4546,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4547,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4547,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4548,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4549,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4550,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4550,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4551,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4551,PROD-0020,Non-stick Pan Set,home,3389,1
+ORD-4551,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4552,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4552,PROD-0021,LED Desk Lamp,home,2844,1
+ORD-4552,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4553,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4553,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4554,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4554,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4555,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4556,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4556,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4556,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4557,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4557,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4557,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4558,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4558,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4558,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4559,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4559,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4559,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4560,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4560,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4561,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4562,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4562,PROD-0018,Almonds 1kg,groceries,666,1
+ORD-4562,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4563,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4563,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4563,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4564,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4564,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4565,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4565,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4566,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4566,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4567,PROD-0011,Wool Sweater,apparel,2185,1
+ORD-4567,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4567,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4568,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4569,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4569,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4570,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4570,PROD-0015,Basmati Rice 5kg,groceries,1095,1
+ORD-4570,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4571,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4572,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4572,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4573,PROD-0004,USB-C Charger,electronics,2120,1
+ORD-4574,PROD-0027,Hair Dryer,beauty,1664,1
+ORD-4575,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4576,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4576,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4576,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4577,PROD-0012,Formal Shirt,apparel,3139,1
+ORD-4578,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4578,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4579,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4580,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4580,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4580,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4581,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4581,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4582,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4582,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4583,PROD-0028,Lip Balm Set,beauty,1627,1
+ORD-4583,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4584,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4584,PROD-0017,Green Tea Pack,groceries,926,1
+ORD-4585,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4586,PROD-0010,Running Shoes,apparel,2604,1
+ORD-4587,PROD-0013,Yoga Pants,apparel,2314,1
+ORD-4587,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4588,PROD-0008,Cotton T-Shirt,apparel,480,1
+ORD-4588,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4589,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4590,PROD-0026,Sunscreen SPF50,beauty,252,1
+ORD-4590,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4590,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4591,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4591,PROD-0025,Vitamin C Serum,beauty,1877,1
+ORD-4591,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4592,PROD-0002,Bluetooth Speaker,electronics,5299,1
+ORD-4592,PROD-0024,Storage Organizer Box,home,2781,1
+ORD-4592,PROD-0022,Memory Foam Pillow,home,3042,1
+ORD-4593,PROD-0023,Ceramic Mug Set,home,3165,1
+ORD-4594,PROD-0001,Wireless Earbuds,electronics,13347,1
+ORD-4595,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4595,PROD-0016,Organic Honey 500g,groceries,820,1
+ORD-4596,PROD-0005,Smartwatch,electronics,12169,1
+ORD-4597,PROD-0006,Laptop Sleeve,electronics,7478,1
+ORD-4597,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4598,PROD-0003,Power Bank 20000mAh,electronics,4641,1
+ORD-4598,PROD-0007,Mechanical Keyboard,electronics,4188,1
+ORD-4599,PROD-0014,Rain Jacket,apparel,2013,1
+ORD-4599,PROD-0019,Cold Pressed Oil 1L,groceries,256,1
+ORD-4600,PROD-0009,Denim Jacket,apparel,1623,1
+ORD-4600,PROD-0013,Yoga Pants,apparel,2314,1
