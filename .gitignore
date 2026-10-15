@@ -1,0 +1,16 @@
+# secrets -- never commit
+.env
+# runtime output (recreated on demand)
+data/shopsense/memory/
+data/shopsense/traces/
+data/shopsense/workflow_state/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+shopsense_env/
+env/
+*.zip
+rec_*.txt
+out_case*.txt
