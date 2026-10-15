@@ -1,0 +1,23 @@
+# Language-model client, data models, PDF ingestion, tests
+litellm
+pydantic
+pypdf
+pytest
+
+# Ticket-resolution graph: workflow, human-approval interrupt, SQLite checkpoint
+langgraph
+langgraph-checkpoint-sqlite
+
+# MCP server and client (langchain-mcp-adapters does not work with mcp 2.x, hence the cap)
+mcp<2
+langchain-mcp-adapters
+
+# Tracing (optional: without it, or without keys, traces go to data/shopsense/traces/traces.jsonl only)
+langfuse>=3
+
+# Chat API
+fastapi
+uvicorn
+
+# Only needed to regenerate the PDF policy corpus (generate_corpus_pdfs.py)
+reportlab
